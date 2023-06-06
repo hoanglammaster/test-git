@@ -3,4 +3,8 @@ public class Main {
         System.out.println("THIS LAST COMMIT");
         System.out.println("THIS SECOND COMMIT");
     }
+
+    private static void doSth(){
+        System.out.println("DO STH WITH RESULT");
+    }
 }
