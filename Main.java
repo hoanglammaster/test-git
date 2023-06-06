@@ -10,4 +10,8 @@ public class Main {
         System.out.println("THIRD COMMIT");
         System.out.println("MORE COMMIT");
     }
+
+    void orderTea(){
+        System.out.println("ORDER TEA");
+    }
 }
