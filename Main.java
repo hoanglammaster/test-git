@@ -13,5 +13,6 @@ public class Main {
 
     void calculateOrder(){
         System.out.println("Calculating here");
+        System.out.println("Calcualte bill");
     }
 }
