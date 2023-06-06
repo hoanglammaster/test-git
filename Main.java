@@ -7,7 +7,6 @@ public class Main {
     private static void doSth(){
         System.out.println("DO STH WITH RESULT");
         System.out.println("SECOND COMMIT");
+        System.out.println("THIRD COMMIT");
     }
-
-
 }
