@@ -8,5 +8,6 @@ public class Main {
         System.out.println("DO STH WITH RESULT");
         System.out.println("SECOND COMMIT");
         System.out.println("THIRD COMMIT");
+        System.out.println("MORE COMMIT");
     }
 }
